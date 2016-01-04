@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExemploSQLite</string>
+    <string name="nome">Nome</string>
+    <string name="tel">Telefone</string>
+    <string name="bt_salvar">Inserir</string>
+    <string name="qtdRegistros">Quantidade de Registros</string>
+    <string name="rdSQLite">SQLite</string>
+    <string name="rdRealm">Realm</string>
+    <string name="bt_sqlite">Inserir com SQLite</string>
+    <string name="bt_realm">Inserir com Realm</string>
+</resources>
