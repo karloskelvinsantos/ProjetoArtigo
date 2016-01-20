@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CrudSqlite</string>
+    <string name="nome">Nome</string>
+    <string name="tel">Telefone</string>
+    <string name="email">Email</string>
+    <string name="salvarcontato">Salvar Contato</string>
+    <string name="btnAdd">Adicionar Contato</string>
+    <string name="listarContatos">Listar Contatos</string>
+    <string name="cargaDados">Inserir Carga de Dados</string>
+    <string name="qtdRegistros">Quantidade de Registros</string>
+    <string name="salvar">salvar</string>
+    <string name="tempoDecorrido">Tempo Decorrido (ms): </string>
+</resources>

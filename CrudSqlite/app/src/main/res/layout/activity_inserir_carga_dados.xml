@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context="br.com.karloskelvin.crudsqlite.activitys.InserirCargaDadosActivity">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/qtdRegistros"
+        android:inputType="number"
+        android:id="@+id/txtQtdRegistros"/>
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_realm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="cargaDados"
+            android:text="@string/salvar"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>
